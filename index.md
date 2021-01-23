@@ -71,6 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu p
 
 
 <hr />
+
 ## Submitting a Bug 🐛
 
 > To submit a bug, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque massa metus, dignissim in leo dictum, finibus placerat eros. Vivamus ornare eros in quam finibus placerat. Sed sollicitudin condimentum interdum. Donec tempus consequat tempor.
