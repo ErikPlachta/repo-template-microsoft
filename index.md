@@ -8,18 +8,37 @@
 
 1. Short Description
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
-> `IMG`
+
+[Link](url) and ![Image](src)
 
 2. Short Description
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
+[Link](url) and ![Image](src)
+
 
 3. Short Description
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
 
+[Link](url) and ![Image](src)
 
 <hr />
-## How to use `Repo_Name_Here` 🤓
+## How to use `Repo_Name_Here` 🧠
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac. 
+
+[Link](url) and ![Image](src)
+1. Short Description
+``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac. ```
+
+2. Short Description
+3. Short Description
+4. Short Description
+5. Short Description
+
+<hr />
+## Feature Request and Suggestions 💡
+
+> To make a feature request or suggestion, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque massa metus, dignissim in leo dictum, finibus placerat eros. Vivamus ornare eros in quam finibus placerat. Sed sollicitudin condimentum interdum. Donec tempus consequat tempor. Aliquam eget luctus elit. Nam sed turpis in ipsum sagittis sollicitudin. Aliquam ac tortor purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean nulla sapien, finibus quis laoreet et, dignissim sed dolor. Nunc posuere felis nec orci semper, scelerisque ultrices quam sollicitudin. Aliquam aliquet ex et sapien mollis egestas. Fusce sollicitudin felis feugiat, condimentum felis non, consequat neque. Cras est nibh, porttitor sed porttitor et, vestibulum vitae erat.
+
 
 <hr />
 ## Submitting a Bug 🐛
@@ -28,9 +47,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu p
 
 <hr />
 
-#### Contributors
+## Contributors 🤓
 
-- 
+- 👤 [Link](url) and ![Image](src)
+- 👤 [Link](url) and ![Image](src)
+- 👤 [Link](url) and ![Image](src)
+
 
 <!-- Lorem Ipsums
 30 words
